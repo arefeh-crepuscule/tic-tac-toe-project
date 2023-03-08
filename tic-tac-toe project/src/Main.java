@@ -5,7 +5,6 @@ public class Main {
      * @param args for start the program
      */
     public static void main(String[] args) {
-        System.out.println("hello");
         Menu object = new Menu();
 
     }
